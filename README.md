@@ -1,2 +1,2 @@
-## Disclamer
-This is mostly vibecoded. It should not be used to evaluate my proficency/skills.
+## Disclaimer
+This is mostly vibecoded. It should not be used in regards to evaluation of my proficency/skills.
